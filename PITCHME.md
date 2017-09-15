@@ -25,6 +25,7 @@
 - Abruptly falling credit score
 - Health insurance claims denied
 - Collection calls
+- Fraudulent tax returns
 
 #HSLIDE 
 
@@ -45,6 +46,7 @@
 - [Understanding All 3 FICO Credit Scores](http://www.myfico.com/credit-education/credit-scores/)
 - [Mint.com](https://www.mint.com/)
 - [Alternatives to Mint.com](https://investorjunkie.com/24249/mint-com-alternatives/)
+- [Social Security sign up](https://secure.ssa.gov/RIL/SiView.do)
 - [General financial information](http://www.bankrate.com/)
 
 
