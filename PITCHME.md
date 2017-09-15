@@ -23,6 +23,7 @@
 - Unrecognized transactions in your accounts
 - New accounts you don't recognize on credit reports
 - Abruptly falling credit score
+- Health insurance claims denied
 - Collection calls
 
 #HSLIDE 
@@ -30,6 +31,7 @@
 ## What can you do to protect yourself?
  - Monitor your credit *report* (vs. credit *score*)
  - Monitor your accounts
+ - Create account at the Social Security Agency
  - Fraud alert?
  - Credit freeze?
 
