@@ -3,6 +3,8 @@
 ## Learn Day
 #### September 15, 2017
 
+#HSLIDE
+
 ### Equifax: 
 *What should you do about this latest (or any) data breach?*
 
