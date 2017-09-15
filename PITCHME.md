@@ -28,7 +28,9 @@
 #HSLIDE 
 
 ## What can you do to protect yourself?
- - Credit *report* vs. credit *score*
+ - Credit freeze
+ - Fraud alert
+ - Monitor your credit *report* (vs. credit *score*)
  - Monitor your accounts
 
 #HSLIDE 
