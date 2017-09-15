@@ -1,15 +1,26 @@
 #HSLIDE
+
 Learn Day
 September 15, 2017
 
 Equifax: What should you do with this angst?
 
-#HSLIDE What is Equifax?
+#HSLIDE 
 
-#HSLIDE What is identity theft?
+What is Equifax?
 
-#HSLIDE What can you do to protect yourself?
+#HSLIDE 
 
-#HSLIDE How much should you worry?
+What is identity theft?
 
-#HSLIDE References
+#HSLIDE 
+
+What can you do to protect yourself?
+
+#HSLIDE 
+
+How much should you worry?
+
+#HSLIDE 
+
+References
