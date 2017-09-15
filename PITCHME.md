@@ -3,7 +3,8 @@
 ## Learn Day
 #### September 15, 2017
 
-### Equifax: What should you do about this latest (or any) data breach?
+### Equifax: 
+*What should you do about this latest (or any) data breach?*
 
 #HSLIDE 
 
@@ -25,8 +26,8 @@
 #HSLIDE 
 
 ## What can you do to protect yourself?
-### Credit *report* vs. credit *score*
-### Monitor your own accounts
+ - Credit *report* vs. credit *score*
+ - Monitor your accounts
 
 #HSLIDE 
 
@@ -35,5 +36,9 @@
 - [Identity Theft Hit an All-Time High in 2016](https://www.usatoday.com/story/money/personalfinance/2017/02/06/identity-theft-hit-all-time-high-2016/97398548/)
 - [Identity Theft - Know Your Rights](https://www.identitytheft.gov/Know-Your-Rights)
 - [*Actually* free credit report!](https://www.annualcreditreport.com/index.action)
-- 
+- [Understanding All 3 FICO Credit Scores](http://www.myfico.com/credit-education/credit-scores/)
+- [Mint.com](https://www.mint.com/)
+- [Alternatives to Mint.com](https://investorjunkie.com/24249/mint-com-alternatives/)
+- [General financial information](http://www.bankrate.com/)
+
 
