@@ -39,8 +39,8 @@
 #HSLIDE 
 
 ### References
+- [Identity Theft, Credit Reports and You](http://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/)
 - [How to Find Out If You Were Affected by the Equifax Hack](http://lifehacker.com/how-to-find-out-if-you-were-affected-by-the-equifax-hac-1806121695?utm_source=lifehacker_newsletter&utm_medium=email&utm_campaign=2017-09-14)
-- [Who are the Major Credit Reporting Agencies?](https://www.credit.com/credit-reports/credit-reporting-agencies)
 - [Identity Theft Hit an All-Time High in 2016](https://www.usatoday.com/story/money/personalfinance/2017/02/06/identity-theft-hit-all-time-high-2016/97398548/)
 - [Identity Theft - Know Your Rights](https://www.identitytheft.gov/Know-Your-Rights)
 - [*Actually* free credit report!](https://www.annualcreditreport.com/index.action)
